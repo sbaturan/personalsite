@@ -8,5 +8,5 @@ Accounts and marketing manager.
 Questions? [Email me!](mailto:sergebaturan@protonmail.com)
 
 Goals
-Projects
-Philosophy
+<br>Projects
+<br>Philosophy
