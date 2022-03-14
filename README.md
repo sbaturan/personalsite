@@ -5,9 +5,8 @@ No-code and low code aficionado.
 Notion enthusiast and builder.
 Accounts and marketing manager.
 
-Questions? [Email](
+Questions? [Email](mailto:sergebaturan@protonmail.com)
 
-The 
-
-
-
+Goals
+Projects
+Philosophy
